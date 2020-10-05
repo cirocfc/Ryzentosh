@@ -75,7 +75,17 @@ Many thanks to [Technolli][technolli] for providing such a great content out the
 
 #### Cinebench
 
+
+
 [technolli]: https://www.technolli.com/
 [bios]: https://www.youtube.com/watch?v=bFDDc7hQJKg
 [efi]: https://github.com/cirocfc/Ryzentosh/blob/master/files/EFI.zip
 [clover]: https://github.com/cirocfc/Ryzentosh/blob/master/files/Clover.zip
+
+---
+
+### Review
+
+- 05/10/2020:
+
+  After some time using the OSX I noticed that the Handoff functionality is not working. It seems that the Ethernet configuration is messed up. It should show in network as `en0` but it does not even appear to be recognized. Reading about it, it causes iMessage, Facetime and many iServices to break, so I could not log-in to them. Probably that's why my Handoff is not working after all :smile: So, I am gonna take some time off and try to fix it, and post the details in the next review.
